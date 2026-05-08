@@ -12,7 +12,7 @@ INSTALLATION
 
 Clone the repository using git:
 
-git clone https://github.com/dhw-sorz/Unmask.git
+git clone https://github.com/dhw-sorz/unmask.git
 
 Enter the directory:
 
