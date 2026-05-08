@@ -16,7 +16,7 @@ git clone https://github.com/dhw-sorz/unmask.git
 
 Enter the directory:
 
-cd unmask
+cd ~/unmask
 
 Compile and install:
 
