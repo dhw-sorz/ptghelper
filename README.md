@@ -11,13 +11,17 @@ The only dependency for this program is the GNU COMPILER COLLECTION (gcc), and g
 INSTALLATION
 
 Clone the repository using git:
+
 git clone https://github.com/dhw-sorz/Unmask.git
 
 Enter the directory:
+
 cd unmask
 
 Compile and install:
+
 make
+
 sudo make install
 
 HOW TO USE
