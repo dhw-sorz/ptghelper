@@ -15,7 +15,7 @@ git clone https://github.com/dhw-sorz/ptghelper.git
 
 Enter the directory:
 
-cd ~/unmask
+cd ~/ptghelper 
 
 Compile and install:
 
