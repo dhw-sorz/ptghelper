@@ -2,13 +2,13 @@ CC = gcc
 PREFIX = /usr/local
 
 all:
-	$(CC) -o unmask unmask.c
+	$(CC) -o ptghelper ptghelper.c
 
 install:
-	install -Dm755 unmask $(PREFIX)/bin/unmask
+	install -Dm755 ptghelper $(PREFIX)/bin/ptghelper
 
 uninstall:
-	rm -f $(PREFIX)/bin/unmask
+	rm -f $(PREFIX)/bin/ptghelper
 
 clean:
-	rm -f unmask
+	rm -f ptghelper
